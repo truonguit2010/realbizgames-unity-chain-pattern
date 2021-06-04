@@ -1,0 +1,30 @@
+{
+  "name": "com.realbizgames.pattern.chain",
+  "displayName": "MAChainPattern",
+  "version": "0.1.0",
+  "unity": "2019.4",
+  "unityRelease": "1f1",
+  "description": "This is our first package. I make it for easy when develop Games",
+  "category": "DesignPattern",
+  "type": "DesignPattern",
+  "license": "MIT",
+  "author": {
+    "name": "Truong PS",
+    "email": "truonguit2010@gmail.com",
+    "url": "https://realbizgames.com"
+  },
+  "dependencies": {
+  },
+  "keywords": [
+    "Realbiz Games",
+    "Design Pattern",
+    "Chain Pattern"
+  ],
+  "samples": [
+    {
+      "displayName": "Example 1",
+      "description": "This sample is just an example",
+      "path": "Samples~/Example1"
+    }
+  ]
+}
