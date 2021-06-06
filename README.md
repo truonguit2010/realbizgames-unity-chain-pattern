@@ -18,7 +18,12 @@ So, let’s see a simple example of the pattern in my Unity Game project.
 
 ![Alt text](How_To_Use_Chain_Pattern.png?raw=true "Optional Title")
 
-## 4. Functions
+## 4. What does it help?
+1. Remove complex logics.
+2. Easy to re-order the execution chain.
+3. Easy to add more Piece to this chain for suppoting more 3rd-party without changing older code.
+
+## 5. Supported Features
 - Support Sync Chain.
 - Support Async Chain with Coroutine.
 
