@@ -1,7 +1,7 @@
 {
   "name": "com.realbizgames.pattern.chain",
-  "displayName": "MAChainPattern",
-  "version": "0.1.0",
+  "displayName": "RealbizGames ChainPattern",
+  "version": "1.0.0",
   "unity": "2019.4",
   "unityRelease": "1f1",
   "description": "This is our first package. I make it for easy when develop Games",
@@ -9,7 +9,7 @@
   "type": "DesignPattern",
   "license": "MIT",
   "author": {
-    "name": "Truong PS",
+    "name": "Truong Pham",
     "email": "truonguit2010@gmail.com",
     "url": "https://realbizgames.com"
   },
