@@ -21,12 +21,12 @@ So, let’s see a simple example of the pattern in my Unity Game project.
 ## 4. What does it help?
 1. Remove complex logics.
 2. Easy to re-order the execution chain.
-3. Easy to add more Piece to this chain for suppoting more 3rd-party without changing older code.
+3. Easy to add-more/remove a Piece to this chain for suppoting more 3rd-party without changing older code.
 
 ## 5. Supported Features
 - Support Sync Chain.
 - Support Async Chain with Coroutine.
 
 # References:
-1. [How to build a unity package that share through Github] (https://github.com/OmiyaGames/template-unity-package)
+1. [How to build a unity package that share through Github](https://github.com/OmiyaGames/template-unity-package)
 2. [Java Baeldung SpringBoot Chain of Responsibility Design Pattern](https://www.baeldung.com/chain-of-responsibility-pattern)
