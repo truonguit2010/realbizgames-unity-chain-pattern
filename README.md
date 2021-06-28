@@ -27,6 +27,16 @@ So, let’s see a simple example of the pattern in my Unity Game project.
 - Support Sync Chain.
 - Support Async Chain with Coroutine.
 
+## 6. More Design Patterns 
+
+1. Chain of Responsibility pattern
+2. Proxy pattern
+3. Adapter pattern
+4. Facade pattern
+5. Decorator pattern
+6. Saga pattern (Orchestration-based saga) for distributed transactions
+7. Reactive Design Patterns
+
 # References:
 1. [How to build a unity package that share through Github](https://github.com/OmiyaGames/template-unity-package)
 2. [Java Baeldung SpringBoot Chain of Responsibility Design Pattern](https://www.baeldung.com/chain-of-responsibility-pattern)
