@@ -27,7 +27,15 @@ So, let’s see a simple example of the pattern in my Unity Game project.
 - Support Sync Chain.
 - Support Async Chain with Coroutine.
 
-## 6. More Design Patterns 
+## 6. Import this package into your Unity project.
+
+Insert the below line into your minifest.json file.
+
+```
+"com.realbizgames.pattern.chain": "https://github.com/truonguit2010/realbizgames-unity-chain-pattern.git#v0.0.1",
+```
+
+## 7. More Design Patterns 
 
 1. Chain of Responsibility pattern
 2. Proxy pattern
