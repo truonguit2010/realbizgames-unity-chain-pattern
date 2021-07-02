@@ -16,7 +16,7 @@ The Chain of Responsibility pattern is handy for:
 
 So, let’s see a simple example of the pattern in my Unity Game project.
 
-![Alt text](How_To_Use_Chain_Pattern.png?raw=true "Optional Title")
+![Alt text](Samples~/How_To_Use_Chain_Pattern.png?raw=true "Optional Title")
 
 ## 4. What does it help?
 1. Remove complex logics.
