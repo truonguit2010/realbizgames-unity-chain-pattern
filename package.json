@@ -1,7 +1,7 @@
 {
   "name": "com.realbizgames.pattern.chain",
   "displayName": "RealbizGames ChainPattern",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "unity": "2019.4",
   "unityRelease": "1f1",
   "description": "This is our first package. I make it for easy when develop Games",
